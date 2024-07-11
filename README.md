@@ -1,2 +1,8 @@
-# react-earth-port
-Developer Portfolio with React.js and Next.js server and clientside rendering, Routing , layout for better performance , SEO, Tailwind.css for modern completely mobile responsive UI, Externity UI for sick Animations, Framer Motion, and Sentry monitoring how many people have visit the portfolio.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
